@@ -17,7 +17,7 @@
  
 🤖 I’m currently improving my knowledge of **Kubernetes & Linux**
 
-👨‍💻 I have strong experience in **Python, embedded electronics, network protocols, Linux**
+👨‍💻 I have strong experience in **Python, backend development, embedded electronics, network protocols, Linux**
 
 ✅ I enjoy working on tech among talented engineers
 
